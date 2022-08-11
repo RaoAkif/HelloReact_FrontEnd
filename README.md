@@ -2,31 +2,35 @@
 
 >
 
-## Built With
-- Ruby on Rails
-- HTML
-- CSS
-- sqlite3 for the local development
-- Postgresql for the production
-- Heroku for Deployment
+## Get Started
+- [Live Site](http://GITHUB_ID.github.io/...)
+- [Live Demo Link](https://www.loom.com/share/...)
 
-## Linters
-- Rubocop
-- Stylelint
 
-## Getting Started
+# Getting Started with Create React App
 
-To get a local copy up and running follow these simple example steps.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### Install
-In order to run, you need to install RUBY and Rails in your computer. For windows you can go to [Ruby installer](https://rubyinstaller.org/) and for MAC and LINUX you can go to [Ruby official site](https://www.ruby-lang.org/en/downloads/) for intructions on how to intall it.
+## Available Scripts
 
-Then you can clone the project by typing ```git clone https://github.com/RaoAkif/RecipeApp```
+In the project directory, you can run:
 
-### Run app
-- Type ```bundle install``` in the root file of the project. 
-- Type ```rails s``` in the root file of the project.
+### `npm start`
 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
 ## Authors
 
 👤 **RaoAkif**
