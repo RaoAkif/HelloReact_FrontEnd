@@ -1,9 +1,9 @@
 # HelloRailsReact
 
-> 
+>
 
 ## Live Demo
-- [Heroku Deployment Link](https://recipeapp-raoakif-cathy.herokuapp.com/)
+- [Heroku Deployment Link](https://hellorailsreact.herokuapp.com/)
 
 ## Built With
 - Ruby on Rails
