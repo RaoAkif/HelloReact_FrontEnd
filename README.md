@@ -2,9 +2,6 @@
 
 >
 
-## Live Demo
-- [Heroku Deployment Link](https://hellorailsreact.herokuapp.com/)
-
 ## Built With
 - Ruby on Rails
 - HTML
